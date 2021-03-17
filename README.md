@@ -11,3 +11,7 @@ fips_codes <- fips_codes %>%
             state_name) %>%
   distinct()
 ```
+## County-commuting zone crosswalk
+- Crosswalk files by [David Dorn](https://www.ddorn.net/data.htm)
+- Crosswalk files by [USDA ERS](https://www.ers.usda.gov/data-products/commuting-zones-and-labor-market-areas/)
+- Crosswalk files by [Fabian Eckert, Andrés Gvirtz, Jack Liang, and Michael Peters](http://fpeckert.me/eglp/). [Github repo](https://github.com/liang-jack-a/EGLP_Crosswalk)
